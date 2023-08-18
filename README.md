@@ -1,8 +1,8 @@
 Hi 👋 My name is Carmelo
 ========================
 
-Data Architect
---------------
+Data Enthusiasts
+----------------
 
 I’ve been working in consulting companies since 2011, specializing in the BI/Analytics area. I've been involved into **Data Integration**, **DWH**, **Analytics** and **BigData** projects for a wide range of clients and industries, also actively supporting the company in developing new Business Opportunities.
 I have a strong technical background especially on Software Design, Data Modeling, Enterprise Architectures, Cloud DataPlatforms (mostly AWS).
