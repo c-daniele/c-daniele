@@ -10,7 +10,7 @@ I have a strong technical background especially on Software Design, Data Modelin
 I'm passionate on keep me up-to-date about best-of-breed tools, framework and technologies and to apply them in working life. I’ve got remarkable experience in a wide range of the Data Management perspectives: Data Integration, Data Governance, Lambda Architectures, RT processing, Cloud DataWarehouses, ETL, Reporting, Data Modeling Right now I'm working with both the roles of Project Manager and Data Architect for outstanding Analytics Projects and Programs, with a special focus on cloud-enabled solutions.
 
 * 🌍  I'm based in Milan
-* 🧠  I'm learning Cloud, IOT, Serverless
+* 🧠  I'm learning AI, Cloud, IOT, Serverless
 
 ### Skills
 
