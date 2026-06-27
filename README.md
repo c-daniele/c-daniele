@@ -1,31 +1,53 @@
-Hi 👋 My name is Carmelo
-========================
+<h1>Hi 👋 My name is Carmelo</h1>
 
-Data Enthusiast
----------------
+<h3>Data &amp; GenAI Architect</h3>
 
-I’ve been working in consulting companies since 2011, specializing in the BI/Analytics area. I've been involved into **Data Integration**, **DWH**, **Analytics** and **BigData** projects for a wide range of clients and industries, also actively supporting the company in developing new Business Opportunities.
-I have a strong technical background especially on Software Design, Data Modeling, Enterprise Architectures, Cloud DataPlatforms (mostly AWS).
+I've been working in consulting since 2011 and I'm currently a **Director** in the **Data Platform & Generative AI** practice at Deloitte. After ~15 years designing and delivering **Data Integration**, **DWH**, **Analytics** and **Big Data** platforms across many industries, my focus has shifted to **Enterprise AI** and **agentic systems** — without losing the data-engineering foundations underneath.
 
-I'm passionate on keep me up-to-date about best-of-breed tools, framework and technologies and to apply them in working life. I’ve got remarkable experience in a wide range of the Data Management perspectives: Data Integration, Data Governance, Lambda Architectures, RT processing, Cloud DataWarehouses, ETL, Reporting, Data Modeling Right now I'm working with both the roles of Project Manager and Data Architect for outstanding Analytics Projects and Programs, with a special focus on cloud-enabled solutions.
+These days most of my time goes into **multi-cloud Data & AI architectures** (AWS, Azure, GCP, Databricks), designing and shipping:
 
-* 🌍  I'm based in Milan
-* 🧠  I'm learning AI, Cloud, IOT, Serverless
+- 🤖 **Agentic systems** &amp; multi-agent orchestration
+- 📚 **RAG** architectures — hybrid retrieval, vector + graph
+- 🔌 **Orchestration protocols** — MCP (Model Context Protocol) &amp; A2A (Agent-to-Agent)
+- ⚙️ **LLM ops &amp; inference routing** — Amazon Bedrock, LiteLLM, OpenRouter
+- 🧑‍💻 **CLI-based coding agents** &amp; terminal-first developer workflows
 
-### Skills
+I'm passionate about staying on the bleeding edge of tools and frameworks and putting them to work on real engagements. I still care a lot about the fundamentals: Software Design, Data Modeling, Enterprise Architectures and Cloud Data Platforms.
 
+* 🌍  Based in Milan
+* 🧠  Currently deep into: agentic AI, MCP/A2A, LLM orchestration, inference engines
+* ✍️  I write about Data &amp; AI — links below
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="48" height="29" alt="AWS" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-</p>
+### Stack
 
+**☁️ Cloud &amp; Data Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+**🤖 AI / GenAI**
+
+![Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%236E56CF.svg?style=for-the-badge&logoColor=white)
+![Agentic%20AI](https://img.shields.io/badge/Agentic%20AI-%230A7E8C.svg?style=for-the-badge&logoColor=white)
+
+**💻 Languages &amp; Tools**
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/c-daniele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carmelo-daniele-1b297816/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@carmelo-daniele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.github.com/c-daniele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/carmelo-daniele-1b297816/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/@carmelo-daniele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+</p>
